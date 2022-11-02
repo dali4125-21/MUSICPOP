@@ -58,3 +58,10 @@
     background-size: 75%;
     margin-top: -20px;
 }
+
+#separator-estudies{
+    width: 100%;
+    overflow: hidden;
+    position:relative;
+    z-index:2;
+}
