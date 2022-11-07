@@ -35,7 +35,7 @@
     position: relative;
     z-index: 2;
 }
-#separator-ribbon .content{
+#separator-ribbon.content{
     width: 150%;
     height: 150px;
     margin-left: -25%;
@@ -65,7 +65,7 @@
     position:relative;
     z-index:2;
 }
-#separator-estudies .content{
+#separator-estudies.content{
     background: url(../imagenes/bg-03.png);
     width: 110%;
     height: 100px;
@@ -88,7 +88,7 @@
 }
 .estudies-name{
     background-color: rgba(0,0,0,0.4);
-    color: rgb(180, 60, 60);
+    color: rgb(78, 180, 60);
     display: inline-block;
     margin: 0 auto;
     text-align: center;
@@ -96,4 +96,7 @@
 }
 #separeitor-estudies-footer{
     height: 20vw;
+}
+#contacto{
+    background-color: rgb(8, 233, 158);
 }
